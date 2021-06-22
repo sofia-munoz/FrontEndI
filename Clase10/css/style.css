@@ -1,0 +1,92 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.header1{
+    background-color: #1CD1B0;
+    margin: 0px;
+    height: 2rem;
+}
+.header2{
+    position: fixed;
+    background-color: #00669F;
+    margin: 0px;
+    height: 5rem;
+    width: 100%;
+    z-index: -2;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    margin: 0px;
+    padding: 5px;
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+h1{
+    margin: 0px;
+    padding: 15px;
+    font-size: 40px;
+}
+main{
+    display: flex;
+    padding-top: 300px;
+    padding-left: 100px;
+    padding-bottom: 150px;
+}
+.caja1{
+    display : inline-block;
+    position: relative;
+    background-color: #F3F3F3;
+    width: 20rem;
+    margin-left: 6rem;
+    margin: 20px;
+    padding-bottom: 30px;
+}
+.fondo{
+   width: 100%;
+}
+.perfil{
+    position: absolute;
+    margin-top: 140px;
+    margin-left: -230px;
+}
+.caja2{
+    display : inline-block;
+    background-color: #F3F3F3;
+    width: 20rem;
+    margin: 20px;
+    padding-bottom: 30px;
+}
+.caja3{
+    display : inline-block;
+    background-color: #F3F3F3;
+    width: 20rem;
+    margin: 20px;
+    padding-bottom: 30px;
+}
+footer{
+    background-color: #00669F;
+    height: 51px;
+    padding-top: 10px;
+    color: white;
+}
+h2{
+    padding-top: 50px;
+    text-align: center;
+}
+.corazon{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: -300px;
+}
+span{
+    background-color: #00669F;
+    border: solid 1px;
+    padding: 8px 14px;
+    margin-left: 110px;
+}
+footer p{
+    padding-top: 10px;
+}
