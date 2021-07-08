@@ -1,0 +1,136 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.header1{
+    background-color: #222222;
+    color: white;
+    padding-left: 5rem;
+    font-size: 13px;
+    height: 1rem;
+}
+.header1 span{
+    position: absolute;
+    right: 4rem;
+}
+.header2{
+    background-color: #F0A83E;
+    height: 3rem;
+    padding-top: 1.5rem;
+    padding-left: 3rem;
+    font-size: 13px;
+}
+.header2 img{
+    height: 1.5rem;
+}
+.header2 div{
+    display: inline-block;
+}
+.menu{
+    position: absolute;
+    right: 4rem;
+    color: white;
+}
+.menu i{
+    padding-left: 2rem;
+}
+.slide{
+    width: 100%;
+}
+.paw{
+    text-align: center;
+}
+.paw img{
+    width: 8rem;
+}
+.paw p{
+    font-size: 40px;
+    font-weight: 700;
+}
+.paw span{
+    font-size: 15px;
+    font-weight: 400;
+    padding-left: 1rem;
+}
+.productos img{
+    width: 20rem;
+    padding-left: 2rem;
+}
+.form{
+    text-align: center;
+    margin-top: 5rem;
+}
+.form p{
+    font-size: 25px;
+    font-weight: 700;
+    color: #3C2313;
+    margin-bottom: 1rem;
+}
+.form img{
+    margin: 3px;
+}
+.boton{
+    margin-top: 1.5rem;
+    margin-bottom: 5rem;
+}
+/* Footer */
+.footer1{
+    background-color: #F0A83E;
+    height: 3rem;
+    padding: 5px 2rem;
+    position: relative;
+}
+.footer1 .img2{
+    position: absolute;
+    right: 3rem;
+}
+.footer1 span{
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+    position: absolute;
+    top: 1.2rem;
+    left: 7rem;
+}
+.footer1 .img1{
+    color: white;
+    height: 50px;
+}
+.footer2{
+    background-color: #3C2313;
+    padding: 2rem;
+    position: relative;
+}
+
+.footer2 i{
+    color: white;
+    font-size: 3rem;
+    padding: 1rem 1rem;
+}
+.titulo{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    padding-bottom: 2rem;
+}
+.sub{
+    color: white;
+    font-size: 13px;
+    padding-left: 6rem;
+}
+.footer2 img{
+    position: absolute;
+    right: 5rem;
+    top: 10rem;
+}
+.footer3{
+    background-color: #222222;
+    text-align: center;
+    font-size: 10px;
+    color: white;
+    height: 1.3rem;
+    padding-top: 5px;
+}
