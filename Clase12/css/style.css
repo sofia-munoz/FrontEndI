@@ -1,0 +1,142 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+/* ----- Header ----- */
+.header1{
+    background-color: #222222;
+    color: white;
+    padding: 0.5rem 5rem;
+    font-size: 13px;
+    height: 1.7rem;
+    display: flex;
+    justify-content: space-between;
+}
+.header2{
+    background-color: #F0A83E;
+    height: 5rem;
+    padding: 1.5rem 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+.header2 img{
+    height: 1.8rem;
+}
+.menu{
+    color: white;
+}
+.menu i{
+    padding-left: 2rem;
+}
+.slide{
+    width: 100%;
+}
+/* ----- Main ----- */
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem;
+}
+.contenedor img{
+    width: 8rem;
+}
+.contenedor p{
+    font-size: 40px;
+    font-weight: 700;
+    color: #3C2313;
+}
+.contenedor span{
+    font-size: 15px;
+    font-weight: 400;
+    padding-left: 1rem;
+    color: #666666;
+}
+.productos img{
+    width: 20rem;
+    padding-left: 2rem;
+    margin-top: 3rem;
+}
+.form{
+    text-align: center;
+    margin-top: 5rem;
+}
+.form p{
+    font-size: 25px;
+    font-weight: 700;
+    color: #3C2313;
+    margin-bottom: 1rem;
+}
+.form img{
+    margin: 3px;
+    width: 23rem;
+}
+.boton img{
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+    width: 7rem;
+}
+/* ----- Footer ----- */
+.footer1{
+    background-color: #F0A83E;
+    height: 3rem;
+    padding: 5px 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+.footer1 span{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    top: -0.8rem;
+    left: 1rem;
+}
+.footer2{
+    background-color: #3C2313;
+    padding: 2rem;
+    position: relative;
+}
+
+.footer2 i{
+    color: white;
+    font-size: 3rem;
+    padding: 1rem 1rem;
+}
+.titulo{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    padding-bottom: 2rem;
+}
+.sub{
+    color: white;
+    font-size: 13px;
+    padding-left: 6rem;
+}
+.footer2 img{
+    position: absolute;
+    right: 5rem;
+    top: 10rem;
+    height: 1.8rem;
+}
+.footer3{
+    background-color: #222222;
+    text-align: center;
+    font-size: 10px;
+    color: white;
+    height: 1.3rem;
+    padding-top: 5px;
+}
+.phone .titulo{
+    position: relative;
+    left: 1.5rem;
+}
+.mail .titulo{
+    position: relative;
+    left: 0.5rem;
+}
